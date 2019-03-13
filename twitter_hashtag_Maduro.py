@@ -17,7 +17,11 @@ HALLOOOOO
 
 
 #test_gitkraken & github
+<<<<<<< Updated upstream
 =======
 Hallo from Calebe
 Test Calebe
+>>>>>>> Stashed changes
+=======
+#lol
 >>>>>>> Stashed changes
