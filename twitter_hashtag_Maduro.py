@@ -11,8 +11,21 @@ all_tweets = search_results['statuses']
 for tweet in all_tweets:
     print (tweet['text'])
     print ("\n")
+<<<<<<< HEAD
 
 
 #test_gitkraken & github
 #Hoi zäme :) Was macheder so? 
 #blablabla
+=======
+<<<<<<< Updated upstream
+
+HALLOOOOO
+
+
+#test_gitkraken & github
+=======
+Hallo from Calebe
+Test Calebe
+>>>>>>> Stashed changes
+>>>>>>> master
