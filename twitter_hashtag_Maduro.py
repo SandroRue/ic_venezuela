@@ -13,6 +13,8 @@ for tweet in all_tweets:
     print ("\n")
 <<<<<<< Updated upstream
 
+HALLOOOOO
+
 
 #test_gitkraken & github
 =======
