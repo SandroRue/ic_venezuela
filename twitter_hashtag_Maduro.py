@@ -14,3 +14,5 @@ for tweet in all_tweets:
 
 
 #test_gitkraken & github
+#Hoi zäme :) Was macheder so? 
+#blablabla
